@@ -5,6 +5,9 @@ This is SYNTRA. A general-purpose symbolic AI system I’ve built from the groun
 It’s not an LLM. It’s not a chatbot.  
 It’s a modular cognition framework that compresses thought into symbolic logic — built using Python, real-time reasoning modules, and a symbolic language I designed called **VLD**.
 
+> **Built for cognition. Runs where it matters.**  
+> (Raspberry Pi today — anywhere tomorrow.)
+
 ---
 
 ## The idea behind SYNTRA is simple:
