@@ -1,0 +1,10 @@
+{
+  "openai_api_key": "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",
+  "elevenlabs_api_key": "elevenlabs-6af0bc9cf38d93344cc270d19280c9e853f8420bd7b7ba6",
+  "use_mistral_for_valon": true,
+  "preferred_voice": "auto",
+  "drift_ratio": {
+    "valon": 0.7,
+    "modi": 0.3
+  }
+}
