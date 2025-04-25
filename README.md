@@ -1,4 +1,4 @@
-  ![SYNTRA Logo](./path-to-your-image.png)
+  ![SYNTRA Logo](4A040C6A-6FBF-4280-891A-F07AE58B7D33.png)
 
 # SYNTRA — Symbolic Cognition Framework
 
