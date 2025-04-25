@@ -1,3 +1,5 @@
+  ![SYNTRA Logo](./path-to-your-image.png)
+
 # SYNTRA — Symbolic Cognition Framework
 
 SYNTRA is not just a project — it’s a system for compressing thought into symbolic logic, with memory, drift reasoning, and modular cognition.
