@@ -4,7 +4,7 @@
 
 SYNTRA is not just a project — it’s a system for compressing thought into symbolic logic, with memory, drift reasoning, and modular cognition.
 
-Built from scratch using Python and a symbolic language called **VLD**, SYNTRA is designed to:
+Built from scratch using Python, SYNTRA is designed to:
 - Learn from documents, manuals, and real-world signals
 - Convert procedures into memory-weighted symbolic chains
 - Use LLMs like ChatGPT or Mistral only as temporary teachers — not permanent engines
